@@ -1,0 +1,19 @@
+{
+  "FirstName": "TestName",
+  "LastName": "TestName",
+  "Address": "TestAddress",
+  "EmailAddress": "testemail@gmail.com",
+  "Phone": "9961356255",
+  "Hobbies1": "Cricket",
+  "Hobbies2": "Movies",
+  "Hobbies3": "Hockey",
+  "Languages1": "Arabic",
+  "Languages2": "French",
+  "Skills": "AutoCAD",
+  "Country": "India",
+  "dob_year": "2000",
+  "dob_month": "May",
+  "dob_day": "2",
+  "Password": "TestPassword",
+  "ConfirmPassword": "TestPassword"
+}
